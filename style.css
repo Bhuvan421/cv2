@@ -1,0 +1,82 @@
+
+body {
+    margin: 0;
+    background-color: #62B6B7;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    color: #2B3A55;
+    font-family: 'Satisfy', cursive;
+}
+
+.Intro-name {
+    margin: 0;
+}
+
+.Intro-subname {
+    margin: 0;
+}
+
+h2 {
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.Intro-name {
+    font-family: 'Marck Script', cursive;
+}
+
+.Intro {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 250px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 40px;
+}
+
+.skill-row {
+    color: #1C315E;
+}
+
+
+.intro-desc {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #181D31;
+    border-width: 5px;
+    width: 5%;
+}
+
+.bottom-container {
+    background-color: #434242;
+    margin: 0;
+}
+
+.copyright {
+    margin: 0;
+}
